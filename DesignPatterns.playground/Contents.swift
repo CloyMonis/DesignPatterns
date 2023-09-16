@@ -16,3 +16,7 @@ let templatePdf: DataProcessor = PDFDataProcessor()
 templatePdf.execute()
 let templateDoc: DataProcessor = DocDataProcessor()
 templateDoc.execute()
+
+// MARK : Chain of Responsibility
+let chainOfResponsibility = ChainOfResponsiblity()
+chainOfResponsibility.execute()
