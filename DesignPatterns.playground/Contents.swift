@@ -20,3 +20,6 @@ templateDoc.execute()
 // MARK : Chain of Responsibility
 let chainOfResponsibility = ChainOfResponsiblity()
 chainOfResponsibility.execute()
+
+let bridgeImplementation = BridgeImplementation()
+bridgeImplementation.execute()
